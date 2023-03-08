@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">labsheet4</string>
+    <string name="enterEmail">Enter Email</string>
+    <string name="enterName">Enter Name</string>
+    <string name="enterPassword">Enter Password</string>
+    <string name="reEnterPassword">Re Enter Password</string>
+    <string name="btnSubmit">Submit</string>
+    <string name="btnCancel">Cancel</string>
 </resources>
